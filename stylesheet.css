@@ -20,7 +20,7 @@ time, mark, audio, video {
 }
 
 /*HUB INDEX CSS*/
-body{
+.container{
 	width: 50%;
 	margin: auto;
 	font-size: 12px;
@@ -28,7 +28,7 @@ body{
 
 .pageTitle{
 	font-size: 5em;
-	font-family: Ruda;
+	font-family: Helvetica;
 	text-align: center;
 }
 
@@ -44,11 +44,13 @@ body{
 .descrTag{
 	font-size: 2em;
 	text-align: center;
+	font-family: Helvetica;
 }
 
 .menuTitle li{
 	display: inline;
 	font-size: 2em;
+	font-family: Helvetica;
 }
 
 .menuTitle li a:link, a:visited{
