@@ -41,10 +41,6 @@ body{
 	text-align: center;
 }
 
-.menuTitle a:link a:visited{
-	text-decoration: none;
-}
-
 .descrTag{
 	font-size: 2em;
 	text-align: center;
@@ -53,4 +49,8 @@ body{
 .menuTitle li{
 	display: inline;
 	font-size: 2em;
+}
+
+.menuTitle li a:link, a:visited{
+	text-decoration: none;
 }
