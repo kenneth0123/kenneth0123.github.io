@@ -23,7 +23,7 @@ time, mark, audio, video {
 body{
 	width: 50%;
 	margin: auto;
-	font-size: 10px;
+	font-size: 12px;
 }
 
 .pageTitle{
@@ -37,4 +37,8 @@ body{
 	padding: 0;
 	margin: 0;
 	list-style-type: none;
+}
+
+.menuTitle li{
+	display: inline;
 }
