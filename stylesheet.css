@@ -19,10 +19,6 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-body{
-	height: 100%;
-}
-
 .clear{
 	clear:both;
 }
@@ -30,7 +26,7 @@ body{
 /*HUB INDEX CSS*/
 .container{
 	width: 50%;
-	height: 100%;
+	height: 100vh;
 	margin: auto;
 	font-size: 12px;
 	background: lightblue;
