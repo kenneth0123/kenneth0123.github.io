@@ -27,7 +27,7 @@ body{
 }
 
 .pageTitle{
-	font-size: 2em;
+	font-size: 5em;
 	font-family: Ruda;
 }
 
@@ -39,6 +39,11 @@ body{
 	list-style-type: none;
 }
 
+.descrTag{
+	font-size: 2em;
+}
+
 .menuTitle li{
 	display: inline;
+	font-size: 2em;
 }
