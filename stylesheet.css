@@ -23,6 +23,10 @@ body{
 	height: 100%;
 }
 
+.clear{
+	clear:both;
+}
+
 /*HUB INDEX CSS*/
 .container{
 	width: 50%;
