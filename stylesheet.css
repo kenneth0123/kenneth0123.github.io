@@ -60,6 +60,7 @@ time, mark, audio, video {
 	width: 50%;
 	background: lightblue;
 	font-family: Helvetica;
+	margin: auto;
 }
 
 .menuTitle li{
