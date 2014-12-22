@@ -18,3 +18,9 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+/*HUB INDEX CSS*/
+body{
+	width: 80%;
+	margin: auto;
+}
