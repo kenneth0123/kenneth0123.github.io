@@ -41,6 +41,10 @@ body{
 	text-align: center;
 }
 
+.menuTitle li a:link a:visited{
+	text-decoration: none;
+}
+
 .descrTag{
 	font-size: 2em;
 	text-align: center;
