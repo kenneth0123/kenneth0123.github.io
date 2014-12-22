@@ -19,12 +19,17 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+body{
+	height: 100%;
+}
+
 /*HUB INDEX CSS*/
 .container{
 	width: 50%;
+	height: 100%;
 	margin: auto;
 	font-size: 12px;
-	
+	background: lightblue;
 }
 
 .pageTitle{
