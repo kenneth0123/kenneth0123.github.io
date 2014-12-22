@@ -54,6 +54,14 @@ time, mark, audio, video {
 	font-family: Helvetica;
 }
 
+.footerTag{
+	font-size: 1em;
+	text-align: center;
+	width: 50%;
+	background: lightblue;
+	font-family: Helvetica;
+}
+
 .menuTitle li{
 	display: inline;
 	font-size: 2em;
