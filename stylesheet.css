@@ -50,6 +50,7 @@ time, mark, audio, video {
 .descrTag{
 	font-size: 2em;
 	text-align: center;
+	background: lightblue;
 	font-family: Helvetica;
 }
 
