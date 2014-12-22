@@ -29,6 +29,7 @@ body{
 .pageTitle{
 	font-size: 5em;
 	font-family: Ruda;
+	text-align: center;
 }
 
 .menuTitle{
@@ -37,10 +38,12 @@ body{
 	padding: 0;
 	margin: 0;
 	list-style-type: none;
+	text-align: center;
 }
 
 .descrTag{
 	font-size: 2em;
+	text-align: center;
 }
 
 .menuTitle li{
