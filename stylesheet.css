@@ -41,7 +41,7 @@ body{
 	text-align: center;
 }
 
-.menuTitle li a:link a:visited{
+.menuTitle a:link a:visited{
 	text-decoration: none;
 }
 
