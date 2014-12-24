@@ -76,3 +76,19 @@ time, mark, audio, video {
 .menuTitle li a:link, a:visited{
 	text-decoration: none;
 }
+/**********************************************/
+
+/*My Page Navigation bar */
+
+#navLogo{
+	float: left;
+}
+
+.navMenu li{
+	float: left;
+}
+
+.navLink{
+	font-family: arial;
+	font-size: .75em;
+}
