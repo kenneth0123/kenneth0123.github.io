@@ -88,10 +88,17 @@ time, mark, audio, video {
 	margin-right: 10px;
 }
 
+.navMenu li{
+	display: inlne;
+	font-size: 2em;
+	font-family: Helvetica;
+}
+
 .navMenu li a:link, a:visited{
 	float: left;
-	text-decoration: none;
+	display: inline;
 	margin-right; 10px;
+	text-decoration: none;
 }
 
 .navLink{
