@@ -92,6 +92,8 @@ time, mark, audio, video {
 .navLogo{
 	float: left;
 	margin-right: 10px;
+	text-decoration: none;
+	font-size: 1em;
 }
 
 .navMenu{
@@ -102,9 +104,7 @@ time, mark, audio, video {
 
 .navMenu li{
 	display: inline;
-	font-size: 1.5em;
 	font-family: Helvetica;
-	margin-right; 10px;
 
 }
 
@@ -112,6 +112,9 @@ time, mark, audio, video {
 	float: left;
 	display: inline;
 	text-decoration: none;
+	margin-right: 10px;
+	font-size: 1em;
+
 }
 
 .navLink{
