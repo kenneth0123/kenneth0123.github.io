@@ -23,6 +23,10 @@ time, mark, audio, video {
 	clear:both;
 }
 
+body{
+	color: #898989;
+}
+
 /*HUB INDEX CSS*/
 .container{
 	width: 50%;
