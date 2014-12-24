@@ -88,8 +88,13 @@ time, mark, audio, video {
 	margin-right: 10px;
 }
 
+.navMenu{
+	float:left;
+	list-style-type: none;
+}
+
 .navMenu li{
-	display: inlne;
+	display: inline;
 	font-size: 2em;
 	font-family: Helvetica;
 }
