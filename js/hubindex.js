@@ -2,14 +2,14 @@ $(document).ready(function(){
 
 	//When use clicks Page 1
 	$("#page1").click(function(){
-		window.location.href = "www.google.com";
+		window.location.href = "http://www.google.com";
 	});
 	
 	$("#page2").click(function(){
-		window.location.href = "www.facebook.com";
+		window.location.href = "http://www.facebook.com";
 	});
 	
 	$("#page3").click(function() {
-		window.location.href = "www.youtube.com";
+		window.location.href = "http://www.youtube.com";
 	});
 });
