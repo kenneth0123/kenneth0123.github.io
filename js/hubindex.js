@@ -9,7 +9,7 @@ $(document).ready(function(){
 		window.location.href = "www.facebook.com";
 	});
 	
-	$("#page3).click(function() {
+	$("#page3").click(function() {
 		window.location.href = "www.youtube.com";
 	});
 });
