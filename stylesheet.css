@@ -79,6 +79,9 @@ time, mark, audio, video {
 /**********************************************/
 
 /*My Page Navigation bar */
+#navBar{
+	background: white;
+}
 
 #navLogo{
 	float: left;

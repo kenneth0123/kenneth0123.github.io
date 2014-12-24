@@ -14,4 +14,8 @@ $(document).ready(function(){
 	$("#page3").click(function() {
 		window.location.href = "http://www.youtube.com";
 	});
+	
+	$("#page4").click(function() {
+		window.location.href = "mypage.html";
+	});
 });
