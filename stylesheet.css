@@ -81,6 +81,12 @@ time, mark, audio, video {
 /*My Page Navigation bar */
 .navBar{
 	background: white;
+	text-align: center
+}
+
+.myContainer{
+	width: 50%;
+	margin: auto;
 }
 
 .navLogo{
@@ -95,14 +101,15 @@ time, mark, audio, video {
 
 .navMenu li{
 	display: inline;
-	font-size: 2em;
+	font-size: 1em;
 	font-family: Helvetica;
+	margin-right; 10px;
+
 }
 
 .navMenu li a:link, a:visited{
 	float: left;
 	display: inline;
-	margin-right; 10px;
 	text-decoration: none;
 }
 
