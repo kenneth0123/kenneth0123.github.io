@@ -97,11 +97,12 @@ time, mark, audio, video {
 .navMenu{
 	float:left;
 	list-style-type: none;
+	vertical-align: baseline;
 }
 
 .navMenu li{
 	display: inline;
-	font-size: 1em;
+	font-size: 1.5em;
 	font-family: Helvetica;
 	margin-right; 10px;
 
