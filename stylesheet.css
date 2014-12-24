@@ -79,16 +79,19 @@ time, mark, audio, video {
 /**********************************************/
 
 /*My Page Navigation bar */
-#navBar{
+.navBar{
 	background: white;
 }
 
-#navLogo{
+.navLogo{
 	float: left;
+	margin-right: 10px;
 }
 
-.navMenu li{
+.navMenu li a:link, a:visited{
 	float: left;
+	text-decoration: none;
+	margin-right; 10px;
 }
 
 .navLink{
