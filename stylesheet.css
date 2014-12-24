@@ -23,11 +23,11 @@ time, mark, audio, video {
 	clear:both;
 }
 
-body{
+/*HUB INDEX CSS*/
+.canvas{
 	background: #898989;
 }
 
-/*HUB INDEX CSS*/
 .container{
 	width: 50%;
 	height: 97vh;
