@@ -113,11 +113,11 @@ time, mark, audio, video {
 	display: inline;
 	text-decoration: none;
 	margin-right: 10px;
-	font-size: 1em;
+	font-size: 2em;
 
 }
 
 .navLink{
 	font-family: arial;
-	font-size: 2em;
+	font-size: .75em;
 }
