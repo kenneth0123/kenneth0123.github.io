@@ -30,7 +30,7 @@ time, mark, audio, video {
 
 .container{
 	width: 50%;
-	height: 97vh;
+	height: 98vh;
 	margin: auto;
 	font-size: 12px;
 	background: lightblue;
@@ -120,4 +120,11 @@ time, mark, audio, video {
 .navLink{
 	font-family: arial;
 	font-size: .75em;
+}
+
+.mpcontainer{
+	width: 50%;
+	height: 98vh;
+	margin: auto;
+	font-size: 12px;
 }
