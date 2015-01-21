@@ -21,6 +21,6 @@ $(document).ready(function(){
 	
 	//Close everything else and open only the clicked link
 	$("#resumeLink").click(function() {
-		$("myResume").show("slow");
+		$("myResume").show();
 	});
 });
