@@ -18,4 +18,9 @@ $(document).ready(function(){
 	$("#page4").click(function() {
 		window.location.href = "mypage.html";
 	});
+	
+	//Close everything else and open only the clicked link
+	$("#resumeLink").click(function() {
+		$("myResume").show("slow");
+	});
 });

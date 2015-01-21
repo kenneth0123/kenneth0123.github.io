@@ -128,3 +128,7 @@ time, mark, audio, video {
 	margin: auto;
 	font-size: 12px;
 }
+
+.myResume{
+	display: none;
+}
