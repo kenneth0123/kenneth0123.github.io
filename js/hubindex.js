@@ -19,8 +19,10 @@ $(document).ready(function(){
 		window.location.href = "mypage.html";
 		
 		//show Interests upon loading page
-		$(".myResume").hide();
-		$(".myAbout").hide();
+		$(document).ready(function(){
+			$(".myResume").hide();
+			$(".myAbout").hide();
+		});
 	});
 	
 	//Close everything else and open only the clicked link
