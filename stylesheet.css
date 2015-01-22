@@ -96,10 +96,11 @@ time, mark, audio, video {
 	font-size: 2.5em;
 }
 
-.navMenu{
+.navMenu li{
 	float:left;
 	list-style-type: none;
 	margin-top: .5em;
+	display: inline;
 }
 
 .navMenu li a:link, a:visited{
