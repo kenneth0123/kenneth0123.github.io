@@ -1,9 +1,11 @@
 $(document).ready(function(){
 	//MY PAGE JS
 	
+	//Start with about content
 	$(".myResume").hide();
-	$(".myAbout").hide();
+	$(".myInterest").hide();
 	
+	//GO back to home page
 	$("#hub").click(function() {
 		window.location.href= "index.html";
 	});
