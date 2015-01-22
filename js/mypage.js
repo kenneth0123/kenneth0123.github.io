@@ -3,7 +3,11 @@ $(document).ready(function(){
 	
 	$(".myResume").hide();
 	$(".myAbout").hide();
-
+	
+	$("#hub").click(function() {
+		windows.location.href= "index.html";
+	});
+	
 	//Close everything else and open only the clicked link
 	$("#resumeLink").click(function() {
 		$(".myResume").show(1000);
