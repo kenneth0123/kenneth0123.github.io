@@ -5,7 +5,7 @@ $(document).ready(function(){
 	$(".myAbout").hide();
 	
 	$("#hub").click(function() {
-		windows.location.href= "index.html";
+		window.location.href= "index.html";
 	});
 	
 	//Close everything else and open only the clicked link
