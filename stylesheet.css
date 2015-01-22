@@ -89,7 +89,7 @@ time, mark, audio, video {
 	margin: auto;
 }
 
-.navLogo a{
+.navLogo a:link{
 	float: left;
 	margin-right: 10px;
 	text-decoration: none;
@@ -99,13 +99,7 @@ time, mark, audio, video {
 .navMenu{
 	float:left;
 	list-style-type: none;
-	vertical-align: baseline;
-}
-
-.navMenu li{
-	display: inline;
-	font-family: Helvetica;
-
+	margin-top: .5em;
 }
 
 .navMenu li a:link, a:visited{
@@ -114,6 +108,7 @@ time, mark, audio, video {
 	text-decoration: none;
 	margin-right: 10px;
 	font-size: 2em;
+	font-family: Helvetica;
 
 }
 
