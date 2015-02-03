@@ -137,7 +137,12 @@ time, mark, audio, video {
 	list-style-type: none;
 }
 
+.myAbout p{
+	font-size: 4em;
+	font-family: Helvetica;
+}
+
 .myAbout li{
-	font-size: 1em;
+	font-size: em;
 	font-family: Helvetica;
 }
