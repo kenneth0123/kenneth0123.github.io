@@ -131,4 +131,13 @@ time, mark, audio, video {
 }
 /**********************************************/
 
-	/* About Me
+	/* About Me */
+	
+.myAbout ul{
+	list-style-type: none;
+}
+
+.myAbout li{
+	font-size: 1em;
+	font-family: Helvetica;
+}
